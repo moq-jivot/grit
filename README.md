@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
