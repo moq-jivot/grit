@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+YOLOv8 INT8 TFLite Inference Example (#7317)
