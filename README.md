@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Add docs guide terminal images (#8819)
