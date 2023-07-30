@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
