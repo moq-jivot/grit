@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Avoid creating -hub dir without processing images (#8334)
