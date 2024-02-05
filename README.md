@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
