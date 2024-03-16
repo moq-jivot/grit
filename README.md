@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Rename model_id to model.id (#8447)
