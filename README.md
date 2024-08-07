@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
