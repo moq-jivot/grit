@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Fix Multi-GPU resume bug (#7328)
