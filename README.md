@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Update format.yml to pull_request_target (#7460)
